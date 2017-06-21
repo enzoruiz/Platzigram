@@ -5,4 +5,22 @@
     <dimen name="textsize_donthave_account">16sp</dimen>
     <dimen name="activity_vertical_margin">20dp</dimen>
     <dimen name="margen_top">15dp</dimen>
+    <dimen name="cardview_height">200dp</dimen>
+    <dimen name="cardview_corner_radius">4dp</dimen>
+    <dimen name="padding_left_cardview">15dp</dimen>
+    <dimen name="padding_bottom_cardview">10dp</dimen>
+    <dimen name="textsize_username_cardview">25sp</dimen>
+    <dimen name="textsize_firstword_time_cardview">15sp</dimen>
+    <dimen name="margin_firstword_time_cardview">5dp</dimen>
+    <dimen name="margin_top_megusta">10dp</dimen>
+    <dimen name="bottombar_height">70dp</dimen>
+    <dimen name="fab_margin">15dp</dimen>
+    <dimen name="padding_list">10dp</dimen>
+    <dimen name="appbar_height">256dp</dimen>
+    <dimen name="textsize_username_detail">25sp</dimen>
+    <dimen name="textsize_likenumber_detail">15sp</dimen>
+    <dimen name="padding_first_second_word">5sp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="padding_top_detail">20dp</dimen>
+    <dimen name="textsize_content_detail">15dp</dimen>
 </resources>
