@@ -25,4 +25,7 @@
     <string name="dummy_firstword">10</string>
     <string name="dummy_title_detail">Titulo de la imagen</string>
     <string name="dummy_lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed justo eros, dictum non felis a, eleifend eleifend nulla. Ut ultrices fringilla dui ut congue. Mauris semper laoreet urna convallis sollicitudin. Curabitur nec blandit arcu, ac lacinia leo. Donec eros ligula, lobortis eget tincidunt ac, tempus ultrices mauris. Mauris maximus ligula et posuere tempus. Nunc interdum a augue sed aliquet. Praesent convallis, augue vel molestie ultrices, nunc velit aliquet neque, viverra vulputate justo nulla a dolor. Sed dapibus urna ac facilisis euismod. Proin porta rhoncus gravida. Fusce ultrices scelerisque tortor in congue. Duis pulvinar ultricies eros, quis vestibulum odio sollicitudin id. Morbi ullamcorper dolor erat, at dictum massa facilisis id. Nullam vel metus vitae ante consectetur hendrerit.</string>
+
+    <string name="facebook_app_id">241844072981940</string>
+
 </resources>
